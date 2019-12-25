@@ -17,8 +17,6 @@ public class Board extends VerticalLayout {
     private HorizontalLayout horizontalLayout;
     private int rowCount;
     private int columnCount;
-    private int clickedRowIndex;
-    private int clickedColumnIndex;
     private MyButton[][] myButtons;
     private List<String> operationsList;
 
